@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c8e263d8.css",
+    "main.js": "/static/js/main.3eb08c99.js",
+    "static/media/octofitapp-small.png": "/static/media/octofitapp-small.8a7d20733a9f274df581.png",
+    "index.html": "/index.html",
+    "main.c8e263d8.css.map": "/static/css/main.c8e263d8.css.map",
+    "main.3eb08c99.js.map": "/static/js/main.3eb08c99.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8e263d8.css",
+    "static/js/main.3eb08c99.js"
+  ]
+}

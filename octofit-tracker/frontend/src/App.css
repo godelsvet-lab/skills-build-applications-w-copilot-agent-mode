@@ -1,0 +1,51 @@
+:root {
+  --ink-900: #0b1f2a;
+  --ink-700: #224454;
+  --mist-100: #e5f2f0;
+  --sea-500: #157a6e;
+  --sun-500: #ff9f1c;
+}
+
+body {
+  margin: 0;
+  font-family: "Space Grotesk", "Segoe UI", sans-serif;
+  color: var(--ink-900);
+  background: radial-gradient(circle at 10% 10%, #c7efe8 0, #f8fbfa 45%, #e6f4ff 100%);
+}
+
+.app-shell {
+  background-image: linear-gradient(120deg, rgba(21, 122, 110, 0.1), rgba(255, 159, 28, 0.08));
+}
+
+.app-logo {
+  width: 68px;
+  height: 68px;
+  border-radius: 18px;
+  object-fit: cover;
+  box-shadow: 0 8px 18px rgba(11, 31, 42, 0.18);
+}
+
+.app-nav {
+  background: linear-gradient(90deg, #0f4c5c, #157a6e);
+}
+
+.nav-link {
+  color: #eefefb !important;
+  font-weight: 600;
+}
+
+.nav-link:hover {
+  color: #fff3d6 !important;
+}
+
+.card {
+  border-radius: 16px;
+}
+
+.table-dark {
+  --bs-table-bg: var(--ink-700);
+}
+
+.lead {
+  color: #365a66;
+}
